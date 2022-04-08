@@ -3,7 +3,7 @@
   <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=21bcff&height=200&section=header&text=MrR%20Suchan&fontSize=70&fontColor=0c2e3d)
 
-  ### [Resume | Portfolio <](https://forums-psi.vercel.app/show.html)  </h3>
+  ### [Resume | Portfolio <](https://tncks.github.io/)  </h3>
 
   <br />
   
